@@ -1,5 +1,4 @@
 {
-
     "engines": {
       "node":"22.20.0"
     },
@@ -8,6 +7,7 @@
   "description": "\"this is my first app\"",
   "main": "index.js",
   "scripts": {
+    "dev": "node app.js",
     "start": "nodemon app.js"
   },
   "author": "sumit",
